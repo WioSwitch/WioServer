@@ -7,8 +7,8 @@
 
 #include <ESP8266WiFi.h>
 
-const char* ssid = "NETGEAR90";
-const char* password = "aquaticprairie256";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 String readStrings = "";
 
 // GPIO16 = D1
