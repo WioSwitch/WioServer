@@ -11,7 +11,7 @@ const char* ssid = "SSID";
 const char* password = "PASSWORD";
 String readStrings = "";
 
-// GPIO16 = D1
+// GPIO16 = D0
 int pinD0 = 16;
 
 // GPIO05 = D1
